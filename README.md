@@ -34,7 +34,7 @@ A demonstration of the SAMxOpenCLIP object detection system can be accessed thro
 An example using one of COCO 2017 val split (Sam_b, filter threshold=0.6):<br>
 ![coco_example](outputs_sample/samb_t0.6_comparison18.png)
 
-An example using an uploaded image (Sam_b, filter threshold=0.6):<br>
+An example using an uploaded image (Sam_b, filter threshold=0.5):<br>
 ![upload_example](outputs_sample/samb_t0.5_comparison17.png)
 
 
